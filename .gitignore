@@ -1,0 +1,8 @@
+# Ignore all contents of bronze directory
+bronze/*
+data/*
+statsapi_json_flattening.py
+
+# But keep the directory itself
+!bronze/.gitkeep
+!data/.gitkeep
